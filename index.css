@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ace7d9;
+    margin: 0;
+    padding: 400px;
+}
+
+form {
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: #000000;
+    width: 500px;
+    height: 230px;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+button {
+    background-color: rgb(47, 63, 24);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
